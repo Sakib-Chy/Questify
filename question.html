@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Questify - Question</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Questify</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="ask.html">Ask Question</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2 id="question-title"></h2>
+    <p id="question-description"></p>
+
+    <h3>Answers</h3>
+    <div id="answers">
+      <!-- Answers will be dynamically added here -->
+    </div>
+
+    <form id="answer-form">
+      <label for="answer">Your Answer</label>
+      <textarea id="answer" name="answer" rows="5" required></textarea>
+      <button type="submit">Post Answer</button>
+    </form>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Questify. All rights reserved to Md. Sakibul Islam Chy.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
