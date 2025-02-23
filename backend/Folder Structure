@@ -1,0 +1,14 @@
+backend/
+  ├── models/
+  │     ├── User.js
+  │     ├── Question.js
+  │     └── Answer.js
+  ├── routes/
+  │     ├── users.js
+  │     ├── questions.js
+  │     └── answers.js
+  ├── config/
+  │     └── db.js
+  ├── middleware/
+  │     └── auth.js
+  └── server.js
