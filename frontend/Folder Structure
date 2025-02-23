@@ -1,0 +1,12 @@
+frontend/
+  ├── src/
+  │     ├── components/
+  │     │     ├── Navbar.js
+  │     │     ├── QuestionList.js
+  │     │     ├── QuestionForm.js
+  │     │     ├── AnswerList.js
+  │     │     └── AnswerForm.js
+  │     ├── App.js
+  │     ├── index.js
+  │     └── App.css
+  └── package.json
