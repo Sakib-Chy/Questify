@@ -1,1 +1,9 @@
+Q: How to learn JavaScript?
+D: I'm new to programming. How can I learn JavaScript effectively?
+A: Start with the basics and practice daily.
+A: Follow online tutorials and build projects.
 
+Q: Best resources for learning React?
+D: What are the best resources to learn React in 2023?
+A: The official React documentation is a great place to start.
+A: Try courses on platforms like Udemy or freeCodeCamp.
